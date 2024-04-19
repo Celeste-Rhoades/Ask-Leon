@@ -9,5 +9,8 @@
     "dev": "nodemon server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.7.0"
+  }
 }
