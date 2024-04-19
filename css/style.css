@@ -3,10 +3,20 @@
   margin: 1vh;
 }
 
-img {
-  width: 1080px;
-  height: 620px;
-  display: flex;
-  justify-content: center;
-  padding: 0 2vh;
+.wrapper {
+  padding: 24px;
+  max-width: 2000px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.leon {
+  height: 480px;
+  width: 220;
+  display: block;
+  margin: 0 auto;
+}
+
+li {
+  list-style: none;
 }
